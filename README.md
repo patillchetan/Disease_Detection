@@ -182,12 +182,12 @@ This analysis improves model interpretability and supports explainable AI in hea
 
 ## Required Libraries
 
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-xgboost
+pandas,
+numpy,
+matplotlib,
+seaborn,
+scikit-learn,
+xgboost,
 jupyter
 
 ---
