@@ -180,34 +180,6 @@ This analysis improves model interpretability and supports explainable AI in hea
 
 ---
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/Healthcare-Predictive-Analytics.git
-```
-
-Navigate to the project folder:
-
-```bash
-cd Healthcare-Predictive-Analytics
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
----
-
 ## Required Libraries
 
 ```text
@@ -218,13 +190,6 @@ seaborn
 scikit-learn
 xgboost
 jupyter
-```
-
-Or install them manually:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost jupyter
-```
 
 ---
 
@@ -265,12 +230,4 @@ This project follows these principles:
 * Real-time disease prediction through REST APIs.
 
 ---
-
-## Acknowledgements
-
-* UCI Machine Learning Repository
-* Kaggle
-* Scikit-learn
-* XGBoost
-* Open-source Python Community
 
