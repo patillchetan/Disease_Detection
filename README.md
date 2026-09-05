@@ -182,7 +182,6 @@ This analysis improves model interpretability and supports explainable AI in hea
 
 ## Required Libraries
 
-```text
 pandas
 numpy
 matplotlib
